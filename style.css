@@ -1,0 +1,135 @@
+body{
+    margin: 0;
+    text-align: center;
+    padding: 0%;
+}
+
+.content{
+    
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 3.125rem; 
+   
+}
+
+.top_cloud{
+    height: 6.25rem;
+    width: 9.375rem;
+    right: 35%;
+    position: relative;
+    left: 25%;
+    
+}
+
+.sam-001{
+    
+    display: block;
+    font-family: "Kalam",serif;
+    
+    /* font-weight: bolder; */
+    color: #66BFBF;
+}
+/* 16px=100%=1em */
+
+.sam-002{
+    margin: 0;
+    font-family: "Shadows Into Light",serif;
+    font-weight: bold;
+    font-size: large;
+}
+
+h1{
+    margin: 50px auto 0 auto;
+    font-size: xx-large;
+    /* line-height: 2; */
+}
+
+h2{
+    color: #66BFBF;
+}
+
+h3{
+    color: #11999E;
+}
+
+.bottom_cloud{
+    height: 6.25rem;
+    width: 9.375rem;
+    display: block;
+    position: relative;
+    left: 13%;
+}
+
+.mountain_img{
+    height: 23.75rem;
+    width:18.75rem;
+}
+
+.hacker_img{
+    height: 6.25rem;
+    width: 6.25rem;
+}
+
+.skill_img_00{
+    /* height: 6.25rem; */
+    /* width: 6.25rem; */
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+} 
+
+.skill_img_01{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.footer-link{
+    color: #11999E;
+    padding-right: 30px;
+    margin: 0;
+    padding-bottom: 0;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    margin: 30px auto 0 auto;
+    padding: 0%;
+}
+
+.copyright{
+    color: #EAF6F6;
+    margin-bottom: 0;
+}
+
+.contact_me{
+    background-color: #66BFBF;
+    color: white;
+    /* font-size: 40px; */
+    padding: 5px 10px;
+    border: 0;
+    border-radius: 5px;
+}
+
+.contact-me{
+    width: 25%;
+    margin: auto;
+}
+
+hr{
+    transform-style: flat;
+    height: 0;
+    width: 25%;
+    border-radius: 5px;
+}
+
+a:hover{
+    color: #D9ACF5;
+}
